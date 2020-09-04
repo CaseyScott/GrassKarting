@@ -11557,3 +11557,17 @@ section#contact form#contactForm :-ms-input-placeholder {
   background-color: #4267B2 !important;
   border: none;
 }
+
+.video {
+  background-color: #5EFF33 !important;
+  border: none;
+  margin-bottom: 40px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  width: 40%;
+}
+
+.containerVideo {
+  align-items: center;
+}
